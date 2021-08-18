@@ -6,4 +6,4 @@ link: https://wwaifu.github.io/
 
 api(images): https://waifu.pics/
 
-only 18+
+nsfw only 18+
